@@ -1,4 +1,5 @@
 # Bachelorarbeit "Makroskopische und mikroskopische Betrachtung der Motilität von Pseudomonas putida in Gelen"
+von Sönke Beier, Institut für Physik und Astronomie, Universität Potsdam
 CC BY-SA 3.0 DE
 
 Hier finden sich alle Videodateien zur Arbeit.
